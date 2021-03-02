@@ -7,7 +7,7 @@ public class DmvSimulator {
         for (int i = 0 ; i< 100 ;i++){
             System.out.format("Now calling Ticket %d \n", ((i+ticketNum)%100)+1);
         }
-        System.out.println("You do not have the required papers you have to go get those and come back. NEXT!");
+        System.out.println("You should have came with ther right papers leave now!!!!");
 
     }
 }
