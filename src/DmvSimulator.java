@@ -7,7 +7,8 @@ public class DmvSimulator {
         for (int i = 0 ; i< 200 ;i++){
             System.out.format("Now calling Ticket %d \n", ((i+ticketNum)%200)+1);
         }
-        System.out.println("You should have came with ther right papers leave now!!!!");
+        System.out.println("You should have came with the right papers leave now!!!! Muhahaha (Evil laugh)");
+        
 
     }
 }
