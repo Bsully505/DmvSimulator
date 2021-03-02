@@ -10,7 +10,7 @@ public class DmvSimulator {
         int lucky_Number = (int) (Math.random() * 100);
 
         if (lucky_Number != 24) {
-            System.out.println("You should have came with ther right papers leave now!!!!");
+            System.out.println("You should have came with the right papers leave now!!!! Muhahaha (Evil laugh)");
         }
         else{
             System.out.println("Thank you for having the required papers here is whatever you needed.");
